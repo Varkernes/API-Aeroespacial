@@ -26,4 +26,4 @@
 ![Slide15](https://user-images.githubusercontent.com/113734824/201202059-bfe6605e-3987-4a6f-8b22-37da4c82e039.png)
 
 ## OBS:
- As informações contidas neste projeto AINDA EM ANDAMENTO foram alteradas. A finalidade desta documentação é de única e exclusivamente para que o processo seja todo demonstrado. 
+ As informações contidas neste projeto AINDA EM ANDAMENTO foram alteradas. A finalidade desta documentação é de única e exclusivamente para que o processo seja todo demonstrado à aqueles que interessar-se.
