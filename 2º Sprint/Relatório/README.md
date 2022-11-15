@@ -1,4 +1,4 @@
-## - Segunda Sprint
+##  Segunda Sprint
 
  Esta etapa tem seu início no mês de outubro após a apresentação da primeira sprint, onde teve início à uma coleta de dados filtradas no comexstat em busca do valor FOB, nas importações e exportações no segmento aeroespacial da região metropolitana do vale do paraíba e litoral norte.
 
