@@ -1,6 +1,6 @@
 ## Terceira Sprint
 
- 1. INTRODUÇÃO
+## 1. INTRODUÇÃO
 
  Após as correções realizadas nos dados contidos na apresentação anterior do projeto, foi criado um protótipo de automatização da coleta de dados (Power Automate).
            
@@ -15,16 +15,17 @@
 
   Os itens analisados são majoritariamente transportados através do modal aéreo, em porcentagens mais baixas deslocam-se por intermédio de meios próprios.
 
-  -IMAGEM
+![Tabela vias](https://user-images.githubusercontent.com/113734824/203680415-6dbfa5d4-4839-4c94-8aad-5bfa4d25faf0.png)
   
-  Fonte: Próprios Autores
+Fonte: Próprios Autores
 
   Referente a demonstração na tabela, os dados nelas contidos do modal aéreo correspondem ao Aeroporto de Guarulhos em São Paulo e o Aeroporto Internacional de Viracopos. A porcentagem de vias não declaradas provêm do aeroporto de São José dos Campos; e por fim os meios próprios remete ao transporte realizado pela própria empresa. 
 
 
 
 
- 2. Pós-Sprint
+## 2. Pós-Sprint
+
 O benchmark dado pelo cliente foi de que, o grupo dê-se sentido aos dados e gráficos apresentados no projeto, sendo assim para a próxima avaliação será exigido um entendimento do porquê referente as crescentes e decrescentes nas importações e exportações do setor aeroespacial na RMVALE.
 
 
