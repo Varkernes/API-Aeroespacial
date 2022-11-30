@@ -29,3 +29,7 @@
  - https://www.lume.ufrgs.br/handle/10183/224874
 
  - https://web.bndes.gov.br/bib/jspui/bitstream/1408/919/1/A%20ind%c3%bastria%20aeron%c3%a1utica%20no%20Brasil_P-final_BD.pdf
+
+ - http://comexstat.mdic.gov.br/pt/municipio/65257
+
+ - https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta
