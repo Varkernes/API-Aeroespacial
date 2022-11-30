@@ -51,7 +51,7 @@ Abaixo estão alguns links externos referente ao projeto:
 #### [Power Bi][pbix]:
 Link para o dashboard final do projeto.
 
-[pbix]:https://app.powerbi.com/links/ZfMdQMv64k?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
+[pbix]:https://app.powerbi.com/links/ZfMdQMv64k?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare](https://app.powerbi.com/links/W4fj9KTuPE?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare)
 
 #### [Aplicativo][apl]:
 
