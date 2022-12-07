@@ -54,5 +54,6 @@ Link para o dashboard final do projeto.
 [pbix]:https://app.powerbi.com/links/W4fj9KTuPE?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
 
 #### [Aplicativo][apl]:
+Acesso ao aplicativo do projeto.
 
 [apl]:https://apps.powerapps.com/play/e/default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/a/0dbd808b-7eee-493a-a73d-7cd7e64a2329?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f
