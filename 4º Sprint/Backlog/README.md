@@ -33,3 +33,5 @@
  - http://comexstat.mdic.gov.br/pt/municipio/65257
 
  - https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta
+
+ - Coleta automatizada de dados: ms-powerautomate:/console/flow/run?environmentid=Default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&workflowid=f6db1f03-9f67-ed11-9562-000d3a338f6f
