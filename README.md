@@ -43,7 +43,7 @@ analisaremos também as principais origens e destinos desses produtos.
 | 01 | 14/09/2022 | ✔️ Concluída    | [Relatório](https://github.com/Varkernes/API-Aeroespacial/blob/207c05c5af5a66550433d60a43fc60097ab2802f/1%C2%BA%20Sprint/Relat%C3%B3rio/README.md) |
 | 02 | 19/10/2022 | ✔️ Concluída    | [Relatório](https://github.com/Varkernes/API-Aeroespacial/blob/f0753fc49be969968377f9827192d1a617e77365/2%C2%BA%20Sprint/Relat%C3%B3rio/README.md) |
 | 03 | 16/11/2022 | ✔️ Concluída | [Relatório](https://github.com/Varkernes/API-Aeroespacial/blob/16d0f0a9e3dec178b5739cc83a2645da472e4a56/3%C2%BASprint/Relat%C3%B3rio/README.md) |
-| 04 | 30/11/2022 | 🚧 Em andamento | -- |
+| 04 | 30/11/2022 | ✔️ Concluída | [Relatório](https://github.com/Varkernes/API-Aeroespacial/blob/ef31a67f3ea5586b4aa94333e3bbceb29f590f7e/4%C2%BA%20Sprint/README.md) |
 
 ## Links Externos
 Abaixo estão alguns links externos referente ao projeto:
